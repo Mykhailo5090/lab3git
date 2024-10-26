@@ -1,1 +1,1 @@
-const variable = "This isN'T lab 3 ! to other NEZmina"
+const variable = "This isN'T lab 3 ! to other Zmina"

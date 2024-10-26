@@ -1,0 +1,1 @@
+const variable = "This is lab 3 ! "
